@@ -27,11 +27,9 @@ You will need it most !
 #### A funny story
 
 During my military service, I had to take a shower with my clothes on because I fell asleep during class.
+
 *Not fun at this time*
 
 
 
-... [Natascha Gritte](https://github.com/Dhaibuna) ... ||Maxime Bottelberghe|| ... [Laetitia Gullo](https://github.com/LaetitiaGullo) ...
-
-
-- 
+... [Natascha Gritte](https://github.com/Dhaibuna/markdown-challenge) ... || Maxime Bottelberghe || ... [Laetitia Gullo](https://github.com/LaetitiaGullo/markdown-challenge) ... 

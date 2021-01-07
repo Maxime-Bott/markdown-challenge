@@ -1,4 +1,4 @@
 # Bottelberghe Maxime
 *Be yourself*
-[] Desktop/photo
+![] home/maxbott/Desktop/photo.jpeg
 ##### Me, in one sentence

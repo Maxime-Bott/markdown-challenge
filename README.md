@@ -1,4 +1,4 @@
 # Bottelberghe Maxime
 *Be yourself*
-![](home/maxbott/Documents/BeCode/photo.jpeg?raw=true)
+![](https://github.com/Maxime-Bott/markdown-challenge/blob/master/me.jpg?raw=true)
 ##### Me, in one sentence

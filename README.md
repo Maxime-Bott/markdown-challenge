@@ -15,7 +15,7 @@
 ### Hobbies
 - Sport
 - Walk in the woods
-- Swim
+- Swimming
 - Gaming
 
 ### You can always count on me when...
@@ -33,4 +33,4 @@ During my military service, I had to take a shower with my clothes on because I 
 
 
 
-<< [Natascha Gritte](https://github.com/Dhaibuna/markdown-challenge) ... || Maxime Bottelberghe || ... [Laetitia Gullo](https://github.com/LaetitiaGullo/markdown-challenge)>>
+[<< Natascha Gritte](https://github.com/Dhaibuna/markdown-challenge) ... || Maxime Bottelberghe || ... [Laetitia Gullo >>](https://github.com/LaetitiaGullo/markdown-challenge)

@@ -1,5 +1,6 @@
 # Bottelberghe Maxime
 
+*« Choose a job you love, and you will never have to work a day in your life »*
 
 ![](https://github.com/Maxime-Bott/markdown-challenge/blob/master/me.jpg?raw=true)
 
@@ -23,17 +24,12 @@ You will need it most !
 #### I can bring to my colleagues: 
 - Listening and solutions
 - Positive attitude
-- Fun and laughs :)
+- Fun and laughs :smiley:
 
 #### A funny story
 
 During my military service, I had to take a shower with my clothes on because I fell asleep during class.
-
 *Not fun at this time*
-
-
-
-
 
 
 

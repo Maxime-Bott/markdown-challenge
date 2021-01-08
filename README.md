@@ -8,9 +8,9 @@
 *Be yourself*
 
 
-| Birthday | Favorite color | Favorite food | Pinneapple on pizza     |
-| -------- | -------------- | ------------- | ----------------------- |
-| 28/06    | Blue           | Pizza & Pasta |    :x: "*never*"        |
+| Birthday      | Favorite color | Favorite food | Pinneapple on pizza     |
+| ------------- | -------------- | ------------- | ----------------------- |
+| 28/06/1996    | Blue           | Pizza & Pasta |     :x: "*never*"       |
 
 ### Hobbies
 - Sport

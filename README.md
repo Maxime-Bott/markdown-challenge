@@ -9,7 +9,7 @@
 
 | Birthday | Favorite color | Favorite food | Pinneapple on pizza     |
 | -------- | -------------- | ------------- | ----------------------- |
-| 28/06    | Blue           | Pizza & Pasta | Y [ ] / N [x] "*never*" |
+| 28/06    | Blue           | Pizza & Pasta |    :x: "*never*"        |
 
 #### Hobbies
 - Sport
@@ -37,5 +37,4 @@ During my military service, I had to take a shower with my clothes on because I 
 
 
 
-
-... [Natascha Gritte](https://github.com/Dhaibuna/markdown-challenge) ... || Maxime Bottelberghe || ... [Laetitia Gullo](https://github.com/LaetitiaGullo/markdown-challenge) ... 
+<< [Natascha Gritte](https://github.com/Dhaibuna/markdown-challenge) ... || Maxime Bottelberghe || ... [Laetitia Gullo](https://github.com/LaetitiaGullo/markdown-challenge)>>

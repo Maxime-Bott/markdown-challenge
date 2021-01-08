@@ -1,10 +1,11 @@
 # Bottelberghe Maxime
 
-*Be yourself*
 
 ![](https://github.com/Maxime-Bott/markdown-challenge/blob/master/me.jpg?raw=true)
 
 #### Me, in one sentence
+*Be yourself*
+
 
 | Birthday | Favorite color | Favorite food | Pinneapple on pizza     |
 | -------- | -------------- | ------------- | ----------------------- |
@@ -29,6 +30,11 @@ You will need it most !
 During my military service, I had to take a shower with my clothes on because I fell asleep during class.
 
 *Not fun at this time*
+
+
+
+
+
 
 
 

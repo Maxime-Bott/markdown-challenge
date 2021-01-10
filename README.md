@@ -30,9 +30,9 @@ You will need it most !
 
 During my military service, I had to take a shower with my clothes on because I fell asleep during class.
 *Not fun at this time*
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 
 [<< Natascha Gritte](https://github.com/Dhaibuna/markdown-challenge) ... || Maxime Bottelberghe || ... [Laetitia Gullo >>](https://github.com/LaetitiaGullo/markdown-challenge)
